@@ -1,0 +1,10 @@
+C:\Users\mirce\source\repos\TV\TV\bin\Debug\TV.exe.config
+C:\Users\mirce\source\repos\TV\TV\bin\Debug\TV.exe
+C:\Users\mirce\source\repos\TV\TV\bin\Debug\TV.pdb
+C:\Users\mirce\source\repos\TV\TV\obj\Debug\TV.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\TV\TV\obj\Debug\TV.TV.resources
+C:\Users\mirce\source\repos\TV\TV\obj\Debug\TV.Properties.Resources.resources
+C:\Users\mirce\source\repos\TV\TV\obj\Debug\TV.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\TV\TV\obj\Debug\TV.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\TV\TV\obj\Debug\TV.exe
+C:\Users\mirce\source\repos\TV\TV\obj\Debug\TV.pdb
